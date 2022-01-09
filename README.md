@@ -11,4 +11,11 @@ The dataset used is: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
 <h4> Example Generated Images </h4>
 
 
-<img src="" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_1.png" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_2.png" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_3.png" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_4.png" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_5.png" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_6.png" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_7.png" Hspace="320" Vspace="0">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/gen_8.png" Hspace="320" Vspace="0">
