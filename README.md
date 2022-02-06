@@ -4,9 +4,9 @@
 In this repository you will find the Colab Notebook for generating synthetic images for skin cancer lesions.
 The network is only a PoC (Proof of Concept) to test the feasibility of the task.
 
-1. Architectural framework
+<h2>1. Architectural framework</h2>
 
-<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/GAN_architecture.png">
+<img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/GAN_architecture.png" height="397" weight="735" Hspace="150">
 
 The network used is a custom Generative Adversarial Network (GAN), consisting of a generator (G) and a binary classification network called discriminator (D).
 
