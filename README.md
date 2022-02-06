@@ -21,7 +21,7 @@ The implemented network is only a PoC (Proof of Concept) to test the feasibility
 
   <h3>2. Results </h3>
   Some qualitative results are shown below:
-  <br>
+  <br><br>
   
   <table>
     <tr>
