@@ -8,14 +8,14 @@ The implemented network is only a PoC (Proof of Concept) to test the feasibility
   <h3>1. Architectural framework</h3>
 
   <div align="center">
-    <img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/GAN_architecture.png" height="397" weight="735">
+    <img src="https://github.com/GiuseppeCannata/GAN-skin-cancer/blob/master/imgs/GAN_architecture.jpg" height="397" weight="735">
     <br>
     <figcaption ><em>Fig.1: GAN framework implemented</em></figcaption>
   </div>
   <br>
   The Generative Adversarial Network (GAN) implemented is shown in detail in Fig.1. In particular, with G has been indicated the generator network, while with D the 
   discriminator network. The generator receives in input a random normal noise vector <i>(latent space)</i> with shape [100] and performs an upsampling to produce an output 
-  synthetic image of size [64,64,3]. 
+  synthetic RGB image of size [64,64,3]. 
 
   The dataset used is <a href="https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000"> here </a>
 
